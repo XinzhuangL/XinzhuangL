@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XinzhuangL
-- 👀 I’m interested in DS
-- 🌱 I’m currently learning leetcode
+- 👀 I’m interested in XX
+- 🌱 I’m currently learning XX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lixinzhuang1996@163.com
 
