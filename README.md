@@ -2,6 +2,8 @@
 
 I work on database systems and contribute to [StarRocks](https://github.com/StarRocks/starrocks). I'm interested in how databases store data, execute queries, and stay reliable as they scale.
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=XinzhuangL&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+
 ### What I focus on
 
 - **Database internals** — storage engines, query execution, and metadata management.
